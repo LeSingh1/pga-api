@@ -1,0 +1,19 @@
+{
+  "sport": "golf",
+  "league": "pga",
+  "date": "20260607",
+  "count": 1,
+  "games": [
+    {
+      "id": "401811950",
+      "name": "the Memorial Tournament pres. by Workday",
+      "shortName": "the Memorial Tournament pres. by Workday",
+      "date": "2026-06-04T04:00Z",
+      "state": "in",
+      "status": "Round 3 - In Progress",
+      "completed": false,
+      "home": null,
+      "away": null
+    }
+  ]
+}
