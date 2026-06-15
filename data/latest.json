@@ -1,7 +1,7 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260614",
+  "date": "20260615",
   "count": 1,
   "games": [
     {
@@ -10,7 +10,7 @@
       "shortName": "RBC Canadian Open",
       "date": "2026-06-11T04:00Z",
       "state": "post",
-      "status": "Round 3 - Play Complete",
+      "status": "Complete",
       "completed": true,
       "home": null,
       "away": null
