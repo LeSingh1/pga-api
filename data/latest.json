@@ -1,17 +1,17 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260615",
+  "date": "20260618",
   "count": 1,
   "games": [
     {
-      "id": "401811951",
-      "name": "RBC Canadian Open",
-      "shortName": "RBC Canadian Open",
-      "date": "2026-06-11T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
+      "id": "401811952",
+      "name": "U.S. Open",
+      "shortName": "U.S. Open",
+      "date": "2026-06-18T04:00Z",
+      "state": "in",
+      "status": "Round 1 - In Progress",
+      "completed": false,
       "home": null,
       "away": null
     }
