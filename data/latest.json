@@ -1,17 +1,17 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260622",
+  "date": "20260625",
   "count": 1,
   "games": [
     {
-      "id": "401811952",
-      "name": "U.S. Open",
-      "shortName": "U.S. Open",
-      "date": "2026-06-18T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
+      "id": "401811953",
+      "name": "Travelers Championship",
+      "shortName": "Travelers Championship",
+      "date": "2026-06-25T04:00Z",
+      "state": "in",
+      "status": "Round 1 - In Progress",
+      "completed": false,
       "home": null,
       "away": null
     }
