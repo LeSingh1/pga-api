@@ -1,7 +1,7 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260626",
+  "date": "20260627",
   "count": 1,
   "games": [
     {
@@ -10,7 +10,7 @@
       "shortName": "Travelers Championship",
       "date": "2026-06-25T04:00Z",
       "state": "in",
-      "status": "Round 2 - In Progress",
+      "status": "Round 3 - In Progress",
       "completed": false,
       "home": null,
       "away": null
