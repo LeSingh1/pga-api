@@ -1,17 +1,17 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260630",
+  "date": "20260702",
   "count": 1,
   "games": [
     {
-      "id": "401811953",
-      "name": "Travelers Championship",
-      "shortName": "Travelers Championship",
-      "date": "2026-06-25T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
+      "id": "401811954",
+      "name": "John Deere Classic",
+      "shortName": "John Deere Classic",
+      "date": "2026-07-02T04:00Z",
+      "state": "in",
+      "status": "Round 1 - In Progress",
+      "completed": false,
       "home": null,
       "away": null
     }
