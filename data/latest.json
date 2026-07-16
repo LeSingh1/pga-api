@@ -1,28 +1,28 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260713",
+  "date": "20260716",
   "count": 2,
   "games": [
     {
-      "id": "401811955",
-      "name": "Genesis Scottish Open",
-      "shortName": "Genesis Scottish Open",
-      "date": "2026-07-09T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
+      "id": "401811957",
+      "name": "The Open",
+      "shortName": "The Open",
+      "date": "2026-07-16T04:00Z",
+      "state": "in",
+      "status": "Round 1 - In Progress",
+      "completed": false,
       "home": null,
       "away": null
     },
     {
-      "id": "401811956",
-      "name": "ISCO Championship",
-      "shortName": "ISCO Championship",
-      "date": "2026-07-09T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
+      "id": "401811958",
+      "name": "Corales Puntacana Championship",
+      "shortName": "Corales Puntacana Championship",
+      "date": "2026-07-16T04:00Z",
+      "state": "in",
+      "status": "Round 1 - In Progress",
+      "completed": false,
       "home": null,
       "away": null
     }
