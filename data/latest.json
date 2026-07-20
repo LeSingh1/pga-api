@@ -1,7 +1,7 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260719",
+  "date": "20260720",
   "count": 2,
   "games": [
     {
@@ -9,9 +9,9 @@
       "name": "The Open",
       "shortName": "The Open",
       "date": "2026-07-16T04:00Z",
-      "state": "in",
-      "status": "Round 4 - In Progress",
-      "completed": false,
+      "state": "post",
+      "status": "Complete",
+      "completed": true,
       "home": null,
       "away": null
     },
@@ -20,9 +20,9 @@
       "name": "Corales Puntacana Championship",
       "shortName": "Corales Puntacana Championship",
       "date": "2026-07-16T04:00Z",
-      "state": "in",
-      "status": "Round 4 - In Progress",
-      "completed": false,
+      "state": "post",
+      "status": "Complete",
+      "completed": true,
       "home": null,
       "away": null
     }
