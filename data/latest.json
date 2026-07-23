@@ -1,28 +1,17 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260720",
-  "count": 2,
+  "date": "20260723",
+  "count": 1,
   "games": [
     {
-      "id": "401811957",
-      "name": "The Open",
-      "shortName": "The Open",
-      "date": "2026-07-16T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
-      "home": null,
-      "away": null
-    },
-    {
-      "id": "401811958",
-      "name": "Corales Puntacana Championship",
-      "shortName": "Corales Puntacana Championship",
-      "date": "2026-07-16T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
+      "id": "401811959",
+      "name": "3M Open",
+      "shortName": "3M Open",
+      "date": "2026-07-23T04:00Z",
+      "state": "in",
+      "status": "Round 1 - In Progress",
+      "completed": false,
       "home": null,
       "away": null
     }
