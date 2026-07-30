@@ -1,17 +1,17 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260727",
+  "date": "20260730",
   "count": 1,
   "games": [
     {
-      "id": "401811959",
-      "name": "3M Open",
-      "shortName": "3M Open",
-      "date": "2026-07-23T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
+      "id": "401811960",
+      "name": "Rocket Classic",
+      "shortName": "Rocket Classic",
+      "date": "2026-07-30T04:00Z",
+      "state": "in",
+      "status": "Round 1 - In Progress",
+      "completed": false,
       "home": null,
       "away": null
     }
