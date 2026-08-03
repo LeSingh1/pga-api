@@ -1,7 +1,7 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260802",
+  "date": "20260803",
   "count": 1,
   "games": [
     {
@@ -10,7 +10,7 @@
       "shortName": "Rocket Classic",
       "date": "2026-07-30T04:00Z",
       "state": "post",
-      "status": "Round 3 - Play Complete",
+      "status": "Complete",
       "completed": true,
       "home": null,
       "away": null
