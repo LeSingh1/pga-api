@@ -1,7 +1,7 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260806",
+  "date": "20260807",
   "count": 1,
   "games": [
     {
@@ -10,7 +10,7 @@
       "shortName": "Wyndham Championship",
       "date": "2026-08-06T04:00Z",
       "state": "in",
-      "status": "Round 1 - In Progress",
+      "status": "Round 2 - In Progress",
       "completed": false,
       "home": null,
       "away": null
