@@ -1,17 +1,17 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260810",
+  "date": "20260813",
   "count": 1,
   "games": [
     {
-      "id": "401811961",
-      "name": "Wyndham Championship",
-      "shortName": "Wyndham Championship",
-      "date": "2026-08-06T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
+      "id": "401811962",
+      "name": "FedEx St. Jude Championship",
+      "shortName": "FedEx St. Jude Championship",
+      "date": "2026-08-13T04:00Z",
+      "state": "in",
+      "status": "Round 1 - In Progress",
+      "completed": false,
       "home": null,
       "away": null
     }
