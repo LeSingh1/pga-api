@@ -1,17 +1,17 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260817",
+  "date": "20260820",
   "count": 1,
   "games": [
     {
-      "id": "401811962",
-      "name": "FedEx St. Jude Championship",
-      "shortName": "FedEx St. Jude Championship",
-      "date": "2026-08-13T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
+      "id": "401811963",
+      "name": "BMW Championship",
+      "shortName": "BMW Championship",
+      "date": "2026-08-20T04:00Z",
+      "state": "pre",
+      "status": "8/20 - 12:00 AM EDT",
+      "completed": false,
       "home": null,
       "away": null
     }
