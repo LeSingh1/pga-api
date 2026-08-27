@@ -1,16 +1,16 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260824",
+  "date": "20260827",
   "count": 1,
   "games": [
     {
-      "id": "401811963",
-      "name": "BMW Championship",
-      "shortName": "BMW Championship",
-      "date": "2026-08-20T04:00Z",
+      "id": "401811964",
+      "name": "TOUR Championship",
+      "shortName": "TOUR Championship",
+      "date": "2026-08-27T04:00Z",
       "state": "post",
-      "status": "Complete",
+      "status": "Round 1 - Play Complete",
       "completed": true,
       "home": null,
       "away": null
