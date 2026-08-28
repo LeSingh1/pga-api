@@ -1,7 +1,7 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260827",
+  "date": "20260828",
   "count": 1,
   "games": [
     {
@@ -10,7 +10,7 @@
       "shortName": "TOUR Championship",
       "date": "2026-08-27T04:00Z",
       "state": "post",
-      "status": "Round 1 - Play Complete",
+      "status": "Round 2 - Play Complete",
       "completed": true,
       "home": null,
       "away": null
