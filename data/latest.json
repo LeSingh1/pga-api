@@ -1,17 +1,17 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260831",
+  "date": "20260917",
   "count": 1,
   "games": [
     {
-      "id": "401811964",
-      "name": "TOUR Championship",
-      "shortName": "TOUR Championship",
-      "date": "2026-08-27T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
+      "id": "401850914",
+      "name": "Biltmore Championship Asheville",
+      "shortName": "Biltmore Championship Asheville",
+      "date": "2026-09-17T04:00Z",
+      "state": "in",
+      "status": "Round 1 - In Progress",
+      "completed": false,
       "home": null,
       "away": null
     }
