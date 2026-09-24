@@ -1,19 +1,29 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260921",
+  "date": "20260924",
   "count": 1,
   "games": [
     {
-      "id": "401850914",
-      "name": "Biltmore Championship Asheville",
-      "shortName": "Biltmore Championship Asheville",
-      "date": "2026-09-17T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
-      "home": null,
-      "away": null
+      "id": "401824815",
+      "name": "Presidents Cup",
+      "shortName": "Presidents Cup",
+      "date": "2026-09-24T04:00Z",
+      "state": "in",
+      "status": "Round 0 - In Progress",
+      "completed": false,
+      "home": {
+        "id": "1",
+        "abbr": "USA",
+        "name": "USA",
+        "score": "0"
+      },
+      "away": {
+        "id": "3",
+        "abbr": "INTL",
+        "name": "INTL",
+        "score": "0"
+      }
     }
   ]
 }
