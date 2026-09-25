@@ -1,7 +1,7 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260924",
+  "date": "20260925",
   "count": 1,
   "games": [
     {
@@ -9,20 +9,20 @@
       "name": "Presidents Cup",
       "shortName": "Presidents Cup",
       "date": "2026-09-24T04:00Z",
-      "state": "in",
-      "status": "Round 0 - In Progress",
-      "completed": false,
+      "state": "post",
+      "status": "Round 0 - Play Complete",
+      "completed": true,
       "home": {
         "id": "1",
         "abbr": "USA",
         "name": "USA",
-        "score": "0"
+        "score": "3"
       },
       "away": {
         "id": "3",
         "abbr": "INTL",
         "name": "INTL",
-        "score": "0"
+        "score": "2"
       }
     }
   ]
