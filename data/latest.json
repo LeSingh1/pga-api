@@ -1,31 +1,19 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20260928",
+  "date": "20261001",
   "count": 1,
   "games": [
     {
-      "id": "401824815",
-      "name": "Presidents Cup",
-      "shortName": "Presidents Cup",
-      "date": "2026-09-24T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
-      "home": {
-        "id": "1",
-        "abbr": "USA",
-        "name": "USA",
-        "score": "17",
-        "winner": true
-      },
-      "away": {
-        "id": "3",
-        "abbr": "INTL",
-        "name": "INTL",
-        "score": "13",
-        "winner": false
-      }
+      "id": "401850915",
+      "name": "Bank of Utah Championship",
+      "shortName": "Bank of Utah Championship",
+      "date": "2026-10-01T04:00Z",
+      "state": "in",
+      "status": "Round 1 - In Progress",
+      "completed": false,
+      "home": null,
+      "away": null
     }
   ]
 }
