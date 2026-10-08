@@ -1,16 +1,16 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20261005",
+  "date": "20261008",
   "count": 1,
   "games": [
     {
-      "id": "401850915",
-      "name": "Bank of Utah Championship",
-      "shortName": "Bank of Utah Championship",
-      "date": "2026-10-01T04:00Z",
+      "id": "401850916",
+      "name": "Baycurrent Classic",
+      "shortName": "Baycurrent Classic",
+      "date": "2026-10-08T04:00Z",
       "state": "post",
-      "status": "Complete",
+      "status": "Round 1 - Play Complete",
       "completed": true,
       "home": null,
       "away": null
