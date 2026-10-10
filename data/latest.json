@@ -1,7 +1,7 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20261009",
+  "date": "20261010",
   "count": 1,
   "games": [
     {
@@ -10,7 +10,7 @@
       "shortName": "Baycurrent Classic",
       "date": "2026-10-08T04:00Z",
       "state": "post",
-      "status": "Round 2 - Play Complete",
+      "status": "Round 3 - Play Complete",
       "completed": true,
       "home": null,
       "away": null
