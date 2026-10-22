@@ -1,17 +1,17 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20261012",
+  "date": "20261022",
   "count": 1,
   "games": [
     {
-      "id": "401850916",
-      "name": "Baycurrent Classic",
-      "shortName": "Baycurrent Classic",
-      "date": "2026-10-08T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
+      "id": "401850917",
+      "name": "Butterfield Bermuda Championship",
+      "shortName": "Butterfield Bermuda Championship",
+      "date": "2026-10-22T04:00Z",
+      "state": "in",
+      "status": "Round 1 - In Progress",
+      "completed": false,
       "home": null,
       "away": null
     }
