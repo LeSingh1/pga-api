@@ -1,7 +1,7 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20261025",
+  "date": "20261026",
   "count": 1,
   "games": [
     {
@@ -10,8 +10,8 @@
       "shortName": "Butterfield Bermuda Championship",
       "date": "2026-10-22T04:00Z",
       "state": "post",
-      "status": "Round 4 - Suspended",
-      "completed": false,
+      "status": "Complete",
+      "completed": true,
       "home": null,
       "away": null
     }
