@@ -1,17 +1,17 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20261027",
+  "date": "20261029",
   "count": 1,
   "games": [
     {
-      "id": "401850917",
-      "name": "Butterfield Bermuda Championship",
-      "shortName": "Butterfield Bermuda Championship",
-      "date": "2026-10-22T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
+      "id": "401850978",
+      "name": "VidantaWorld Mexico Open",
+      "shortName": "VidantaWorld Mexico Open",
+      "date": "2026-10-29T04:00Z",
+      "state": "in",
+      "status": "Round 1 - In Progress",
+      "completed": false,
       "home": null,
       "away": null
     }
