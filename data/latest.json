@@ -1,17 +1,17 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20261102",
+  "date": "20261105",
   "count": 1,
   "games": [
     {
-      "id": "401850978",
-      "name": "VidantaWorld Mexico Open",
-      "shortName": "VidantaWorld Mexico Open",
-      "date": "2026-10-29T04:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
+      "id": "401850979",
+      "name": "World Wide Technology Championship",
+      "shortName": "World Wide Technology Championship",
+      "date": "2026-11-05T05:00Z",
+      "state": "in",
+      "status": "Round 1 - In Progress",
+      "completed": false,
       "home": null,
       "away": null
     }
