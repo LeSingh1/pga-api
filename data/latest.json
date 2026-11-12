@@ -1,16 +1,16 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20261108",
+  "date": "20261112",
   "count": 1,
   "games": [
     {
-      "id": "401850979",
-      "name": "World Wide Technology Championship",
-      "shortName": "World Wide Technology Championship",
-      "date": "2026-11-05T05:00Z",
+      "id": "401850980",
+      "name": "Austin Championship pres. by Compliance Solutions",
+      "shortName": "Austin Championship pres. by Compliance Solutions",
+      "date": "2026-11-12T05:00Z",
       "state": "in",
-      "status": "Round 4 - In Progress",
+      "status": "Round 1 - In Progress",
       "completed": false,
       "home": null,
       "away": null
