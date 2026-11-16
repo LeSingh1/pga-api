@@ -1,7 +1,7 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20261115",
+  "date": "20261116",
   "count": 1,
   "games": [
     {
@@ -10,8 +10,8 @@
       "shortName": "Austin Championship pres. by Compliance Solutions",
       "date": "2026-11-12T05:00Z",
       "state": "post",
-      "status": "Round 3 - Suspended",
-      "completed": false,
+      "status": "Complete",
+      "completed": true,
       "home": null,
       "away": null
     }
