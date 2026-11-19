@@ -1,17 +1,17 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20261117",
+  "date": "20261119",
   "count": 1,
   "games": [
     {
-      "id": "401850980",
-      "name": "Austin Championship pres. by Compliance Solutions",
-      "shortName": "Austin Championship pres. by Compliance Solutions",
-      "date": "2026-11-12T05:00Z",
-      "state": "post",
-      "status": "Complete",
-      "completed": true,
+      "id": "401850981",
+      "name": "The RSM Classic",
+      "shortName": "The RSM Classic",
+      "date": "2026-11-19T05:00Z",
+      "state": "in",
+      "status": "Round 1 - In Progress",
+      "completed": false,
       "home": null,
       "away": null
     }
