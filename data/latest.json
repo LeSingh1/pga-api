@@ -1,7 +1,7 @@
 {
   "sport": "golf",
   "league": "pga",
-  "date": "20261120",
+  "date": "20261121",
   "count": 1,
   "games": [
     {
@@ -9,8 +9,8 @@
       "name": "The RSM Classic",
       "shortName": "The RSM Classic",
       "date": "2026-11-19T05:00Z",
-      "state": "in",
-      "status": "Round 2 - In Progress",
+      "state": "post",
+      "status": "Round 3 - Suspended",
       "completed": false,
       "home": null,
       "away": null
